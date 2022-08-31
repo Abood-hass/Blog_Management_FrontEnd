@@ -1,0 +1,22 @@
+{
+  "name": "employees_management_frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abood-hass/Employees_Management_FrontEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abood-hass/Employees_Management_FrontEnd/issues"
+  },
+  "homepage": "https://github.com/Abood-hass/Employees_Management_FrontEnd#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
