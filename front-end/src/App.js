@@ -1,7 +1,6 @@
 import React, { Component } from "react";
-
 import "./App.css";
-import {Login} from "./components/Login";
+import {Login} from "./pages/user-pages/Login";
 import rocketImg from './assets/rocket.png';
 
 function App() {
